@@ -1,12 +1,48 @@
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
+padding: 0;
     margin: 0;
-    padding: 0;
+    border: 0;
+    box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+}
+
+
+img {
+    vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+html,
 body {
-    background-color: #5a5353;
-    color: whitesmoke;
+    height: 100%;
+    line-height: 1;
+    font-size: 14px;
+    color: #252b42;
+    font-weight: 500;
+    font-family: Montserrat;
+}
+
+.content {
+    min-height: 100%;
+    overflow: hidden;
+}
+
+.img-airplane {
+    height: 35%;
+    width: 100%;
+
 }

@@ -2,12 +2,12 @@
 
 ## Must-Haves
 
-> these are necessary for basic usability
+> The user should see up-to-date information about upcoming flights
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+> Additional information about each flight is also required
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+> Information on postponement/cancellation/delay of departure
